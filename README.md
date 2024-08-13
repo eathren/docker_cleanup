@@ -23,3 +23,12 @@ This script provides a safe and comprehensive way to clean up Docker resources, 
 
    ```bash
    chmod +x docker_cleanup.sh
+   ```
+
+3. **Run the Script**:
+
+   This cannot be undone.
+
+   ```bash
+      ./docker_cleanup.sh
+   ```
