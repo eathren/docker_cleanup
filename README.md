@@ -1,6 +1,6 @@
 # Docker Cleanup Script
 
-For when system prune just doesn't quite do it.  
+For when just system prune just doesn't quite do it.  
 
 This script provides a safe and comprehensive way to clean up Docker resources, including containers, images, networks, and volumes. It is designed to be used primarily in development environments where you may need to reclaim disk space and remove unused resources.
 
